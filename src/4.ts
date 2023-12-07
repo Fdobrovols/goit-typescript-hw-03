@@ -15,7 +15,7 @@ class Person
 
     }
 
-    getKey()
+    getKey(): Key
     {
         return this.key;
     }
